@@ -1,4 +1,5 @@
 var numToLet = [", A ", ", B ", ", C ", ", D "]
+var letToNum = {a: 1, b: 2, c: 3, d: 4}
 
 var Branch = function(hint, flavor, branches, isWinner) {
     this.hint = hint;
@@ -113,7 +114,7 @@ exports.handler = function( event, context ) {
         if (IntentName === "response") {
 
             var response = event.request.intent.slots.OPTION.value;
-            response = numToLet.indexOf(response);
+            response = letToNum[response];
             console.log(currPokemon);
             currBranch = currBranch.goDownBranch(response);
             say = currBranch.getDescription();
