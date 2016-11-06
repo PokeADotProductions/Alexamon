@@ -115,7 +115,6 @@ exports.handler = function( event, context ) {
 
             var response = event.request.intent.slots.OPTION.value;
             response = letToNum[response];
-            console.log(currPokemon);
             currBranch = currBranch.goDownBranch(response);
             say = currBranch.getDescription();
 
