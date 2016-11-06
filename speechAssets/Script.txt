@@ -1,0 +1,47 @@
+Charmander Path (Branches 1, )
+
+
+
+Begin Adventrue
+.
+.
+.
+Choose a Pokemon (Branches 1-4)
+. Charmander -> Cry -> Branch 1
+. Squirtle -> Branch 2
+. Bulbasaur -> Branch 3
+. Agumon -> Lose
+
+
+
+Branch 1) 
+	A) Grind (Branch 1 until grind 5 times) -> Charmander evolves -> Charmeleon... CHARIZARD -> Branch 11
+	B) Catch a grass type (go to Branch 12)
+
+
+Branch 11)
+	A) Go to gym? -> Branch 111
+	B) Grind some more? Charizard already looks pretty scary... -> You aren't trianer enough for Charizard, he leaves you... Game Over
+
+
+Branch 111) 
+	A) Have Mercy -> Charizard thinks you too weak willed, he leaves you.... Game Over
+	B) Destroy your Enemy -> You give into your hate, your anger... Welcome to the Dark Side -> Branch 1112
+
+Branch 2)
+	A) Fight the gym? -> Rocks are weak to water, obviously... -> Branch 21)
+	B) Say hi to Officer Jenny? -> Officer Jenny mistakes 11 year old child as master criminal, go to jail -> Lose
+
+Branch 21) 
+.Misty has water pokemon...
+	A) Grab a grass pokemon? -> Your Pokemans fight like champs and your squirtle pulls through at the end, but team rocket steals your grass pokemon during the battle, qq -> Branch 211
+	B) Nah, you gud champ, you de best -> Get wrecked. Game Over
+
+Branch 211) 
+
+
+Branch 3)
+	A) Bask in the sun? -> Bulbasuar goes back to it's rightful state as a plant -> Lose
+	B) Fight the gym? -> Grass Op you wreck Brock and Misty -> Branch 32
+
+
