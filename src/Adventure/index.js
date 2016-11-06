@@ -40,7 +40,6 @@ exports.handler = function( event, context ) {
       return "nothing to inspect."
     }
      // do something
-}
     return subjects[this.subject.toLowerCase()]
   }
 
