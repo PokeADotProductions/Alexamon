@@ -1,0 +1,32 @@
+GetRandomPokemonIntent who's that Pokemon
+GetRandomPokemonIntent get random Pokemon
+GetRandomPokemonIntent get random
+GetRandomPokemonIntent random
+GetRandomPokemonIntent Pokemon
+
+GetPokemonIntent get {Pokemon}
+GetPokemonIntent encounter {Pokemon}
+GetPokemonIntent show me a {Pokemon}
+GetPokemonIntent show me {Pokemon}
+GetPokemonIntent get me a {Pokemon}
+GetPokemonIntent I choose {Pokemon}
+GetPokemonIntent capture {Pokemon}
+GetPokemonIntent {Pokemon} I choose you
+GetPokemonIntent Go {Pokemon}
+GetPokemonIntent what is a {Pokemon}
+GetPokemonIntent who is {Pokemon}
+GetPokemonIntent who's {Pokemon}
+GetPokemonIntent describe a {Pokemon}
+GetPokemonIntent describe {Pokemon}
+GetPokemonIntent describe that
+GetPokemonIntent what's a {Pokemon}
+
+GetLocationIntent where can I find {Pokemon}
+GetLocationIntent where can I find a {Pokemon}
+GetLocationIntent where is {Pokemon}
+GetLocationIntent find {Pokemon}
+GetLocationIntent where's {Pokemon}
+GetLocationIntent find me a {Pokemon}
+GetLocationIntent find me {Pokemon}
+
+MoveRequestIntent does {Pokemon} learn {Move}
