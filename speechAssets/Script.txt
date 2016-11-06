@@ -15,33 +15,78 @@ Choose a Pokemon (Branches 1-4)
 
 
 Branch 1) 
-	A) Grind (Branch 1 until grind 5 times) -> Charmander evolves -> Charmeleon... CHARIZARD -> Branch 11
-	B) Catch a grass type (go to Branch 12)
+    A) Grind (Branch 1 until grind 5 times) -> Charmander evolves -> Charmeleon... CHARIZARD -> Branch 11
+    B) Catch a bellsprout? (go to Branch 12)
 
 
 Branch 11)
-	A) Go to gym? -> Branch 111
-	B) Grind some more? Charizard already looks pretty scary... -> You aren't trianer enough for Charizard, he leaves you... Game Over
-
+    A) Go to gym? -> Branch 111
+    B) Grind some more? Charizard already looks pretty scary... -> You aren't trianer enough for Charizard, he leaves you... Game Over
 
 Branch 111) 
-	A) Have Mercy -> Charizard thinks you too weak willed, he leaves you.... Game Over
-	B) Destroy your Enemy -> You give into your hate, your anger... Welcome to the Dark Side -> Branch 1112
+    A) Have Mercy -> Charizard thinks you too weak willed, he leaves you.... Game Over
+    B) Destroy your Enemy -> You give into your hate, your anger... Welcome to the Dark Side -> Branch 1112
+
+Branch 12)
+Your bellsprout easily defeats Misty and Brock's gyms. On your path to the next gym you run into a peculiar pokemon. It looks like a muk? Do you?
+    A) Fight? -> Branch 121
+    B) Try to run away? -> 122
+
+Branch 121)
+Muk isn't alone! Five of his Grimer buddies roll up on your flank. Bellsprout throws himself into the line of fire.
+
+
+
+
 
 Branch 2)
-	A) Fight the gym? -> Rocks are weak to water, obviously... -> Branch 21)
-	B) Say hi to Officer Jenny? -> Officer Jenny mistakes 11 year old child as master criminal, go to jail -> Lose
+    A) Fight the gym? -> Rocks are weak to water, obviously... -> Branch 21)
+    B) Say hi to Officer Jenny? -> Officer Jenny mistakes 11 year old child as master criminal, go to jail -> Lose
 
 Branch 21) 
 .Misty has water pokemon...
-	A) Grab a grass pokemon? -> Your Pokemans fight like champs and your squirtle pulls through at the end, but team rocket steals your grass pokemon during the battle, qq -> Branch 211
-	B) Nah, you gud champ, you de best -> Get wrecked. Game Over
+    A) Grab a grass pokemon? -> Your Pokemans fight like champs and your squirtle pulls through at the end, but team rocket steals your grass pokemon during the battle, qq -> Branch 211
+    B) Nah, you gud champ, you de best -> Get wrecked. Game Over
 
 Branch 211) 
+Team Rocket stole your oddish... Do you?
+    A) Leave you the weak behind? -> Branch 2111
+    B) Revenge? -> Branch 2112
+
+Branch 2111)
+You move from gym, the saddness of your Oddish's soul weighing against you... Do you?
+    A) Keep moving foward? -> The Battles keep weighing you down... Team Rocket returns with your oddish, oddish has evolved and wrecks your squritle because you left it behind... Game Over
+    B) Take a break? -> Branch 21112
+
+Branch 21112)
+Squritle knows your no quitter, don't let him down... Do you?
+    A) Get Revenge and Fight keep rocket to get oddish back? -> Branch 211121
+    B) Call officer Jenny -> Officer Jenny finds and defeats team rockey, returning your Oddish, but you are tired from your jounrey and the world is too scary for you now. You head home and open a bakery. Game Over? 
+
+Branch 211121)
+You run in the team rocket member who stole your pokemon. He looks pretty scary... Do you?
+    A) Fight? -> Branch 2111211
+    B) Run? -> You don't get far, team rocket steals the rest of your pokemon. You are no longer trainer. You get into the wonderful world of accounting... Game over...
+
+Branch 2111211)
+The team rocket member only has a zubat... You a squritle destroy the Team Rocket Grunt. You recuse oddish and continue on your journey. After several months of training you, squritle and oddish destroy team rocket and beat the region champion. You are da Best. WINNER!
+
+Branch 2112)
+There is an epic training montage of you and squritle preparing for battle
+    A) Fight Team Rocket? -> Branch 21121
+    B) Training is hard... why not try your hand at cooking? -> You and squritle build a cooking empire across the entire poke region. You become the one who knocks. You single handlely destroy the rest of the cooking industry with your amazing cook. Ratings of your cooking soar to 99%. Your little known sister in law, officer Jenny, catches on to your shady cooking methods and sends you jail. Game Over... 
+
+Branch 21121)
+Squritle is squritle no more. He has evovled into the tank known as Blastoise. You rain destruction down upon your enemies, get it rain? As in the water that falls from the sky? You easily destroy the team rocket headquarters. The eilte four is no match for your greatness. The both of you easily conquer the world... Good Game WINNER
+
+
+
+
+
 
 
 Branch 3)
-	A) Bask in the sun? -> Bulbasuar goes back to it's rightful state as a plant -> Lose
-	B) Fight the gym? -> Grass Op you wreck Brock and Misty -> Branch 32
+    A) Bask in the sun? -> Bulbasuar goes back to it's rightful state as a plant -> Lose
+    B) Fight the gym? -> Grass Op you wreck Brock and Misty -> Branch 32
 
 
