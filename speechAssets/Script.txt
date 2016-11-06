@@ -16,18 +16,24 @@ Choose a Pokemon (Branches 1-4)
 
 Branch 1) 
     A) Grind (Branch 1 until grind 5 times) -> Charmander evolves -> Charmeleon... CHARIZARD -> Branch 11
-    B) Catch a grass type (go to Branch 12)
+    B) Catch a bellsprout? (go to Branch 12)
 
 
 Branch 11)
     A) Go to gym? -> Branch 111
     B) Grind some more? Charizard already looks pretty scary... -> You aren't trianer enough for Charizard, he leaves you... Game Over
 
-
 Branch 111) 
     A) Have Mercy -> Charizard thinks you too weak willed, he leaves you.... Game Over
     B) Destroy your Enemy -> You give into your hate, your anger... Welcome to the Dark Side -> Branch 1112
 
+Branch 12)
+Your bellsprout easily defeats Misty and Brock's gyms. On your path to the next gym you run into a peculiar pokemon. It looks like a muk? Do you?
+    A) Fight? -> Branch 121
+    B) Try to run away? -> 122
+
+Branch 121)
+Muk isn't alone! Five of his Grimer buddies roll up on your flank. Bellsprout throws himself into the line of fire.
 
 
 

@@ -1,4 +1,5 @@
 var numToLet = [", A ", ", B ", ", C ", ", D "]
+var letToNum = {a: 1, b: 2, c: 3, d: 4}
 
 var Branch = function(hint, flavor, branches, isWinner) {
     this.hint = hint;
@@ -110,23 +111,20 @@ exports.handler = function( event, context ) {
     } else {
         var IntentName = event.request.intent.name;
 
-        if (IntentName === "ActionRequestIntent") {
+        if (IntentName === "response") {
 
-            if (event.request.intent.slots.pokemon.value) {
+            var response = event.request.intent.slots.OPTION.value;
+            response = letToNum[response];
+            currBranch = currBranch.goDownBranch(response);
+            say = currBranch.getDescription();
 
-                var response = event.request.intent.slots.option.value;
-                response = numToLet.indexOf(response);
-                console.log(currPokemon);
-                currBranch.goDownBranch(response);
-                say = currBranch.getDescription();
-
-                if (currBranch.isLeaf()) {
-                  console.log("IS LEAF");
-                  say = say + " Thanks for playing."
-                  shouldEndSession = true;
-                }
-                context.succeed({sessionAttributes: sessionAttributes, response: buildSpeechletResponse(say, shouldEndSession) });
+            if (currBranch.isLeaf()) {
+              console.log("IS LEAF");
+              say = say + " Thanks for playing."
+              shouldEndSession = true;
             }
+            context.succeed({sessionAttributes: sessionAttributes, response: buildSpeechletResponse(say, shouldEndSession) });
+
 
         } else if (IntentName === "AMAZON.StopIntent" || IntentName === "AMAZON.CancelIntent") {
             say = "You asked for " + sessionAttributes.requestList.toString() + ". Thanks for playing!";
