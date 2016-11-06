@@ -1,5 +1,5 @@
 var numToLet = [", A ", ", B ", ", C ", ", D "]
-var letToNum = {a: 1, b: 2, c: 3, d: 4}
+var letToNum = {a: 0, b: 1, c: 2, d: 3}
 
 var Branch = function(hint, flavor, branches, isWinner) {
     this.hint = hint;
@@ -90,8 +90,6 @@ console.log(currBranch.getDescription())
 
 
 
-var https = require('https');
-
 exports.handler = function( event, context ) {
     var say = "";
     var shouldEndSession = false;
@@ -110,8 +108,9 @@ exports.handler = function( event, context ) {
 
     } else {
         var IntentName = event.request.intent.name;
-
-        if (IntentName === "response") {
+        say = IntentName;
+        context.succeed({sessionAttributes: sessionAttributes, response: buildSpeechletResponse(say, shouldEndSession) });
+        if (IntentName === "ActionResponseIntent") {
 
             var response = event.request.intent.slots.OPTION.value;
             response = letToNum[response];
