@@ -2,14 +2,39 @@
 {
   "intents": [
     {
-      "intent": "StateRequestIntent",
+      "intent": "GetRandomPokemonIntent",
       "slots":[
         {
-          "name":"usstate",
-          "type":"AMAZON.US_STATE"
+          "name":"random_pokemon",
+          "type":"RANDOM_POKEMON"
         }
-      ]
-    },
+      ],
+
+      "intent": "GetPokemonIntent",
+      "slots": [
+        {
+          "name":"pokemondescription",
+          "type": "POKEMON_DESCRIPTION"
+        }
+      ],
+
+      "intent": "GetLocationIntent",
+      "slots": [
+        {
+          "name":"pokemon_location",
+          "type": "POKEMON_LOCATION"
+        }
+      ],
+
+      "intent": "MoveRequestIntent",
+      "slots": [
+        {
+          "name":"pokemon_move",
+          "type": "POKEMON_MOVE"
+        }
+      ],
+    }
+
     {
       "intent": "AMAZON.StartOverIntent"
     },
