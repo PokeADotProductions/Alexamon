@@ -33,7 +33,7 @@ b.addBranch(b2);
       b112.addBranch(b1121);
       b112.addBranch(b1122);
         b1112.addBranch(b11121);
-        b1112.addBranch(b11122)l
+        b1112.addBranch(b11122);
           b11121.addBranch(b111211);
           b11121.addBranch(b111212);
 
